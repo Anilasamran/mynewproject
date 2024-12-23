@@ -29,7 +29,7 @@
                                     <th>#</th>
                                     <th>Product_id</th>
                                     <th>user_id</th>
-                                    <th>purchasequantity</th>
+                                    <th>purchase_qty</th>
                                     <th>sale_qty</th>
                                     
                                     <th>remain_qty</th>    
